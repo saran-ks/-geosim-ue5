@@ -1,0 +1,10 @@
+*.jpg
+*.jpeg
+*.png
+*.tif
+venv/
+__pycache__/
+*.pyc
+.env
+*.pt
+*.pth
